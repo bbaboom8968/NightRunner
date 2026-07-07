@@ -1,5 +1,14 @@
 {
   "dependencies": {
+    "com.coffee.ui-material-property-injector": {
+      "version": "https://github.com/mob-sakai/UIMaterialPropertyInjector.git?path=Packages/src",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0"
+      },
+      "hash": "66522cf8a92f23e8bd0a26016b22a7b578231845"
+    },
     "com.unity.2d.animation": {
       "version": "13.0.4",
       "depth": 0,
@@ -272,6 +281,15 @@
         "com.unity.modules.ui": "1.0.0",
         "com.unity.modules.imgui": "1.0.0"
       }
+    },
+    "com.unity.uiextensions": {
+      "version": "https://github.com/Unity-UI-Extensions/com.unity.uiextensions.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.ugui": "2.0.0"
+      },
+      "hash": "d47f838ba918bbb9b26f242bd944940a711f525f"
     },
     "com.unity.visualscripting": {
       "version": "1.9.9",
