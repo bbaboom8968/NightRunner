@@ -42,13 +42,13 @@ Material:
     m_Ints: []
     m_Floats:
     - _ColorMask: 15
-    - _Interval_Speed: 0.6
-    - _Offset_1_Repeat: 100
-    - _Offset_1_Speed: 100
+    - _Interval_Speed: 10
+    - _Offset_1_Repeat: 50
+    - _Offset_1_Speed: 50
     - _Offset_2_Repeat: 1
     - _Offset_2_Speed: 2
-    - _RGB: 0
-    - _RGB_Speed: 0.1
+    - _RGB: 1
+    - _RGB_Speed: 7.96
     - _Scanline_1_Repeat: 0
     - _Scanline_1_Speed: 0
     - _Scanline_2_Repeat: 30.49
@@ -62,11 +62,11 @@ Material:
     - _UIMaskSoftnessY: 1
     m_Colors:
     - _ClipRect: {r: 0, g: 0, b: 0, a: 0}
-    - _Emission: {r: 11.181762, g: 11.181762, b: 11.181762, a: 1}
+    - _Emission: {r: 14.754423, g: 14.754423, b: 14.754423, a: 1}
     - _Interval_Range: {r: 0, g: 1, b: 0, a: 0}
-    - _Offset_1: {r: 0.1, g: 0, b: 0, a: 0}
+    - _Offset_1: {r: 0.15, g: 0, b: 0, a: 0}
     - _Offset_2: {r: 0.1, g: 0, b: 0, a: 0}
-    - _RGB_Offset: {r: 0.03, g: 0, b: 0, a: 0}
+    - _RGB_Offset: {r: 0.03, g: 0.1, b: 0, a: 0}
     - _Scanline_1_Contrast: {r: 0, g: 1, b: 0, a: 0}
     - _Scanline_2_Contrast: {r: 0, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
