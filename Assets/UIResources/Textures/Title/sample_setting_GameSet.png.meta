@@ -1,0 +1,4082 @@
+fileFormatVersion: 2
+guid: 0ac441882617beb42b092a39ae07cc9f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -725767029315446597
+    second: sample_setting_GameSet_0
+  - first:
+      213: -7388126425867454648
+    second: sample_setting_GameSet_1
+  - first:
+      213: -998015935451624511
+    second: sample_setting_GameSet_2
+  - first:
+      213: 8157122308845969954
+    second: sample_setting_GameSet_3
+  - first:
+      213: -206851936138464834
+    second: sample_setting_GameSet_4
+  - first:
+      213: -5553267526910525886
+    second: sample_setting_GameSet_5
+  - first:
+      213: 2438677300289516814
+    second: sample_setting_GameSet_6
+  - first:
+      213: 2149552843703150198
+    second: sample_setting_GameSet_7
+  - first:
+      213: -441350313150421217
+    second: sample_setting_GameSet_8
+  - first:
+      213: 5767527552953912916
+    second: sample_setting_GameSet_9
+  - first:
+      213: 2887338140084566718
+    second: sample_setting_GameSet_10
+  - first:
+      213: 2717347650636977707
+    second: sample_setting_GameSet_11
+  - first:
+      213: 6094639983050261694
+    second: sample_setting_GameSet_12
+  - first:
+      213: 3609347910706917486
+    second: sample_setting_GameSet_13
+  - first:
+      213: -4420049903457158061
+    second: sample_setting_GameSet_14
+  - first:
+      213: -8588421426104000700
+    second: sample_setting_GameSet_15
+  - first:
+      213: 704095036814271922
+    second: sample_setting_GameSet_16
+  - first:
+      213: -1997697518978684596
+    second: sample_setting_GameSet_17
+  - first:
+      213: -8508484792188312575
+    second: sample_setting_GameSet_18
+  - first:
+      213: -3812371874080605139
+    second: sample_setting_GameSet_19
+  - first:
+      213: -5835123656151759613
+    second: sample_setting_GameSet_20
+  - first:
+      213: 5987700456684747973
+    second: sample_setting_GameSet_21
+  - first:
+      213: 834803798025395859
+    second: sample_setting_GameSet_22
+  - first:
+      213: -7168973956282710531
+    second: sample_setting_GameSet_23
+  - first:
+      213: -1905712686038451518
+    second: sample_setting_GameSet_24
+  - first:
+      213: -8395083695523083387
+    second: sample_setting_GameSet_25
+  - first:
+      213: -948592285763947764
+    second: sample_setting_GameSet_26
+  - first:
+      213: 4514623587048888862
+    second: sample_setting_GameSet_27
+  - first:
+      213: -181780841740688938
+    second: sample_setting_GameSet_28
+  - first:
+      213: -523212277304306575
+    second: sample_setting_GameSet_29
+  - first:
+      213: 4567996935449206657
+    second: sample_setting_GameSet_30
+  - first:
+      213: 3925612157698645475
+    second: sample_setting_GameSet_31
+  - first:
+      213: -4451006269673062553
+    second: sample_setting_GameSet_32
+  - first:
+      213: 187609231171907309
+    second: sample_setting_GameSet_33
+  - first:
+      213: -5986511135777045745
+    second: sample_setting_GameSet_34
+  - first:
+      213: -7547594240593628609
+    second: sample_setting_GameSet_35
+  - first:
+      213: -3171368698467011451
+    second: sample_setting_GameSet_36
+  - first:
+      213: -94002020908182355
+    second: sample_setting_GameSet_37
+  - first:
+      213: 1103811104719641391
+    second: sample_setting_GameSet_38
+  - first:
+      213: -3036342598268275690
+    second: sample_setting_GameSet_39
+  - first:
+      213: 894124665720897942
+    second: sample_setting_GameSet_40
+  - first:
+      213: -5875946025106305649
+    second: sample_setting_GameSet_41
+  - first:
+      213: -7695469948353149733
+    second: sample_setting_GameSet_42
+  - first:
+      213: -6989999730521054346
+    second: sample_setting_GameSet_43
+  - first:
+      213: 7782479613689241745
+    second: sample_setting_GameSet_44
+  - first:
+      213: 4971879743766147795
+    second: sample_setting_GameSet_45
+  - first:
+      213: 4267800978425228643
+    second: sample_setting_GameSet_46
+  - first:
+      213: -3888078951914246799
+    second: sample_setting_GameSet_47
+  - first:
+      213: 3785674186497853681
+    second: sample_setting_GameSet_48
+  - first:
+      213: -7146068536355486477
+    second: sample_setting_GameSet_49
+  - first:
+      213: -8126722319916154535
+    second: sample_setting_GameSet_50
+  - first:
+      213: 3991463069450676038
+    second: sample_setting_GameSet_51
+  - first:
+      213: 3441523168168338889
+    second: sample_setting_GameSet_52
+  - first:
+      213: -7171163082043877761
+    second: sample_setting_GameSet_53
+  - first:
+      213: -819686020909900276
+    second: sample_setting_GameSet_54
+  - first:
+      213: 7149398270671270305
+    second: sample_setting_GameSet_55
+  - first:
+      213: 7510511570557918255
+    second: sample_setting_GameSet_56
+  - first:
+      213: 8911368643761528686
+    second: sample_setting_GameSet_57
+  - first:
+      213: -6304654499625048070
+    second: sample_setting_GameSet_58
+  - first:
+      213: 4058781556596259716
+    second: sample_setting_GameSet_59
+  - first:
+      213: 2747319564357914580
+    second: sample_setting_GameSet_60
+  - first:
+      213: -3783810860085197042
+    second: sample_setting_GameSet_61
+  - first:
+      213: -5981964028801524045
+    second: sample_setting_GameSet_62
+  - first:
+      213: 226237978413978749
+    second: sample_setting_GameSet_63
+  - first:
+      213: -3475794486481924055
+    second: sample_setting_GameSet_64
+  - first:
+      213: -3069927023718303377
+    second: sample_setting_GameSet_65
+  - first:
+      213: -7897691233463657821
+    second: sample_setting_GameSet_66
+  - first:
+      213: -9050988865541251728
+    second: sample_setting_GameSet_67
+  - first:
+      213: -1902687188485089769
+    second: sample_setting_GameSet_68
+  - first:
+      213: 2429530085149654999
+    second: sample_setting_GameSet_69
+  - first:
+      213: -3746644265897688450
+    second: sample_setting_GameSet_70
+  - first:
+      213: -3670023967333074769
+    second: sample_setting_GameSet_71
+  - first:
+      213: -7350978583558989073
+    second: sample_setting_GameSet_72
+  - first:
+      213: -6510438709994479074
+    second: sample_setting_GameSet_73
+  - first:
+      213: 3270578234694852464
+    second: sample_setting_GameSet_74
+  - first:
+      213: 5108844693993312507
+    second: sample_setting_GameSet_75
+  - first:
+      213: -4741151759335847320
+    second: sample_setting_GameSet_76
+  - first:
+      213: 1997604668354313191
+    second: sample_setting_GameSet_77
+  - first:
+      213: -1233310793353801997
+    second: sample_setting_GameSet_78
+  - first:
+      213: 7055426511422546916
+    second: sample_setting_GameSet_79
+  - first:
+      213: 1960001456513556465
+    second: sample_setting_GameSet_80
+  - first:
+      213: -560475720391737938
+    second: sample_setting_GameSet_81
+  - first:
+      213: -5586021329394290286
+    second: sample_setting_GameSet_82
+  - first:
+      213: 4460648235505926320
+    second: sample_setting_GameSet_83
+  - first:
+      213: 5962573276642583059
+    second: sample_setting_GameSet_84
+  - first:
+      213: -498894742646163056
+    second: sample_setting_GameSet_85
+  - first:
+      213: -580840671633798350
+    second: sample_setting_GameSet_86
+  - first:
+      213: -8788558970174330827
+    second: sample_setting_GameSet_87
+  - first:
+      213: -3334378034138232925
+    second: sample_setting_GameSet_88
+  - first:
+      213: 8920038507981320956
+    second: sample_setting_GameSet_89
+  - first:
+      213: -4420601993252048233
+    second: sample_setting_GameSet_90
+  - first:
+      213: -2294253090873668875
+    second: sample_setting_GameSet_91
+  - first:
+      213: 4277198737196917053
+    second: sample_setting_GameSet_92
+  - first:
+      213: 2614529167415612434
+    second: sample_setting_GameSet_93
+  - first:
+      213: 4769113476179581163
+    second: sample_setting_GameSet_94
+  - first:
+      213: 4159401915178921283
+    second: sample_setting_GameSet_95
+  - first:
+      213: 7644268095875376464
+    second: sample_setting_GameSet_96
+  - first:
+      213: 8357915070265438666
+    second: sample_setting_GameSet_97
+  - first:
+      213: -838186947812022480
+    second: sample_setting_GameSet_98
+  - first:
+      213: -3656303951109738022
+    second: sample_setting_GameSet_99
+  - first:
+      213: 3455557530039227956
+    second: sample_setting_GameSet_100
+  - first:
+      213: 7627735979761730044
+    second: sample_setting_GameSet_101
+  - first:
+      213: 7628796773537898034
+    second: sample_setting_GameSet_102
+  - first:
+      213: -5783988780767869462
+    second: sample_setting_GameSet_103
+  - first:
+      213: 1071449228996724275
+    second: sample_setting_GameSet_104
+  - first:
+      213: -5334152650980829299
+    second: sample_setting_GameSet_105
+  - first:
+      213: -4954286444999807752
+    second: sample_setting_GameSet_106
+  - first:
+      213: -3909222068823864661
+    second: sample_setting_GameSet_107
+  - first:
+      213: 1651305502028079311
+    second: sample_setting_GameSet_108
+  - first:
+      213: -1611489416988009240
+    second: sample_setting_GameSet_109
+  - first:
+      213: -9030778191977927286
+    second: sample_setting_GameSet_110
+  - first:
+      213: -266373804040731106
+    second: sample_setting_GameSet_111
+  - first:
+      213: 6179230906616276249
+    second: sample_setting_GameSet_112
+  - first:
+      213: -6601192741287528677
+    second: sample_setting_GameSet_113
+  - first:
+      213: 8377447792983357065
+    second: sample_setting_GameSet_114
+  - first:
+      213: -5482806276080639304
+    second: sample_setting_GameSet_115
+  - first:
+      213: 3165976270529216703
+    second: sample_setting_GameSet_116
+  - first:
+      213: 7059440920567107600
+    second: sample_setting_GameSet_117
+  - first:
+      213: 6096935425232002521
+    second: sample_setting_GameSet_118
+  - first:
+      213: 6493206044417224873
+    second: sample_setting_GameSet_119
+  - first:
+      213: -9214175234573953270
+    second: sample_setting_GameSet_120
+  - first:
+      213: -6982910029899472240
+    second: sample_setting_GameSet_121
+  - first:
+      213: 6764902556476110508
+    second: sample_setting_GameSet_122
+  - first:
+      213: 7997769603131570534
+    second: sample_setting_GameSet_123
+  - first:
+      213: 5087381921037810297
+    second: sample_setting_GameSet_124
+  - first:
+      213: -8281965326482788478
+    second: sample_setting_GameSet_125
+  - first:
+      213: -16288836336901313
+    second: sample_setting_GameSet_126
+  - first:
+      213: -5600805357196740685
+    second: sample_setting_GameSet_127
+  - first:
+      213: 4741715399393443345
+    second: sample_setting_GameSet_128
+  - first:
+      213: -7681869613205827514
+    second: sample_setting_GameSet_129
+  - first:
+      213: -373857564874998554
+    second: sample_setting_GameSet_130
+  - first:
+      213: 4272555149853033522
+    second: sample_setting_GameSet_131
+  - first:
+      213: 8767221900325985359
+    second: sample_setting_GameSet_132
+  - first:
+      213: -6252801151565590107
+    second: sample_setting_GameSet_133
+  - first:
+      213: -2572216845185360602
+    second: sample_setting_GameSet_134
+  - first:
+      213: -3008307567339456147
+    second: sample_setting_GameSet_135
+  - first:
+      213: -545804799089945881
+    second: sample_setting_GameSet_136
+  - first:
+      213: 8222559541349600673
+    second: sample_setting_GameSet_137
+  - first:
+      213: -2416339517609437887
+    second: sample_setting_GameSet_138
+  - first:
+      213: -8763874768863913239
+    second: sample_setting_GameSet_139
+  - first:
+      213: -493839790381915042
+    second: sample_setting_GameSet_140
+  - first:
+      213: 4803018362817454822
+    second: sample_setting_GameSet_141
+  - first:
+      213: 2274900082337565385
+    second: sample_setting_GameSet_142
+  - first:
+      213: -8021512522881296712
+    second: sample_setting_GameSet_143
+  - first:
+      213: 2540803602694309487
+    second: sample_setting_GameSet_144
+  - first:
+      213: 7089931665327478577
+    second: sample_setting_GameSet_145
+  - first:
+      213: 4112806643013645469
+    second: sample_setting_GameSet_146
+  - first:
+      213: 2474264371472591561
+    second: sample_setting_GameSet_147
+  - first:
+      213: -7707400396803002731
+    second: sample_setting_GameSet_148
+  - first:
+      213: -1690229360350942709
+    second: sample_setting_GameSet_149
+  - first:
+      213: 8766052335828474629
+    second: sample_setting_GameSet_150
+  - first:
+      213: 9136368523990894791
+    second: sample_setting_GameSet_151
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sample_setting_GameSet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 332
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb856fb6bbe8de5f0800000000000000
+      internalID: -725767029315446597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_1
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 532
+        width: 332
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8477e7ed82a187990800000000000000
+      internalID: -7388126425867454648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 495
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb0a3f5bc55622f0800000000000000
+      internalID: -998015935451624511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_3
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 495
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222ad28858be33170800000000000000
+      internalID: 8157122308845969954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_4
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 495
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb17d51924d112df0800000000000000
+      internalID: -206851936138464834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 495
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e39c35b94dee2b0800000000000000
+      internalID: -5553267526910525886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 495
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05b09d751ce7d120800000000000000
+      internalID: 2438677300289516814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_7
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 495
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6766bda2ceeb4dd10800000000000000
+      internalID: 2149552843703150198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 485
+        width: 169
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1769238a3200e9f0800000000000000
+      internalID: -441350313150421217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_9
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 502
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e881270cf5a0050800000000000000
+      internalID: 5767527552953912916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_10
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 502
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba7d2a9db2e11820800000000000000
+      internalID: 2887338140084566718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_11
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 502
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2695778a45f5b520800000000000000
+      internalID: 2717347650636977707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_12
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 502
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb48a9716c2849450800000000000000
+      internalID: 6094639983050261694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_13
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 502
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60fb783dcaf61230800000000000000
+      internalID: 3609347910706917486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_14
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 502
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cbfeef704d8a2c0800000000000000
+      internalID: -4420049903457158061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_15
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 502
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f97b3673ccfc880800000000000000
+      internalID: -8588421426104000700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_16
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 502
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b52e6d94b275c900800000000000000
+      internalID: 704095036814271922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_17
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 502
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49a894d0b0c644e0800000000000000
+      internalID: -1997697518978684596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_18
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 502
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1046dc0592acbe980800000000000000
+      internalID: -8508484792188312575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_19
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 502
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c3cb5bafbb71bc0800000000000000
+      internalID: -3812371874080605139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_20
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 502
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305889653f9750fa0800000000000000
+      internalID: -5835123656151759613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 502
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc732657d5981350800000000000000
+      internalID: 5987700456684747973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_22
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 502
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e537e91a1d59b00800000000000000
+      internalID: 834803798025395859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_23
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 444
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df50ebb6b20b28c90800000000000000
+      internalID: -7168973956282710531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_24
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 438
+        width: 169
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2caf8b0b86c8d85e0800000000000000
+      internalID: -1905712686038451518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_25
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 468
+        width: 317
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b4ca4abdbae7b80800000000000000
+      internalID: -8395083695523083387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_26
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 446
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c033d5a875ce5d2f0800000000000000
+      internalID: -948592285763947764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_27
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 448
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a16a0ab3a27ae30800000000000000
+      internalID: 4514623587048888862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 448
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1231d994f2a7df0800000000000000
+      internalID: -181780841740688938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_29
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 440
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1745725b43d2db8f0800000000000000
+      internalID: -523212277304306575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_30
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 440
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fd580b209c46f30800000000000000
+      internalID: 4567996935449206657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_31
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 440
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed159965739a7630800000000000000
+      internalID: 3925612157698645475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_32
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 440
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fb9135169da32c0800000000000000
+      internalID: -4451006269673062553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_33
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 440
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deee59c0a958a9200800000000000000
+      internalID: 187609231171907309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_34
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 440
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03c61407d3abeca0800000000000000
+      internalID: -5986511135777045745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_35
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 440
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32f1ace60f814790800000000000000
+      internalID: -7547594240593628609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_36
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 440
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584b41ca8f80df3d0800000000000000
+      internalID: -3171368698467011451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_37
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 440
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da45997f8a902bef0800000000000000
+      internalID: -94002020908182355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_38
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 440
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b12fbf956815f00800000000000000
+      internalID: 1103811104719641391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_39
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 440
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61435dd7e7ebcd5d0800000000000000
+      internalID: -3036342598268275690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_40
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 440
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691853d65a1986c00800000000000000
+      internalID: 894124665720897942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_41
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 405
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d8b26e832747ea0800000000000000
+      internalID: -5875946025106305649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_42
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 405
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd487b4bad2343590800000000000000
+      internalID: -7695469948353149733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_43
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 405
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673673a97488efe90800000000000000
+      internalID: -6989999730521054346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_44
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 405
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190aaada9fbe00c60800000000000000
+      internalID: 7782479613689241745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_45
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 405
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d23429e84aaff440800000000000000
+      internalID: 4971879743766147795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_46
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 405
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36da91bc0664a3b30800000000000000
+      internalID: 4267800978425228643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_47
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 405
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d6a7c0bc4ca0ac0800000000000000
+      internalID: -3888078951914246799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_48
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 405
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f802918d9a698430800000000000000
+      internalID: 3785674186497853681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_49
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 405
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f48fe5178014dc90800000000000000
+      internalID: -7146068536355486477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_50
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 405
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951c8257b15183f80800000000000000
+      internalID: -8126722319916154535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_51
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 405
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647a2b49386846730800000000000000
+      internalID: 3991463069450676038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_52
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 405
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c563f4661fb2cf20800000000000000
+      internalID: 3441523168168338889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_53
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 405
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76116cdb29ea7c90800000000000000
+      internalID: -7171163082043877761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_54
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 405
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0edf4828e3ef94f0800000000000000
+      internalID: -819686020909900276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_55
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 405
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1372919d3c73360800000000000000
+      internalID: 7149398270671270305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_56
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 405
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cd0942b72ba3860800000000000000
+      internalID: 7510511570557918255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_57
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 405
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fd5f9219a8bab70800000000000000
+      internalID: 8911368643761528686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_58
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 406
+        width: 311
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7e746d22e5188a0800000000000000
+      internalID: -6304654499625048070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_59
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 372
+        width: 311
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bb3d54250b35830800000000000000
+      internalID: 4058781556596259716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_60
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 378
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfc80e7690702620800000000000000
+      internalID: 2747319564357914580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_61
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 378
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e074b5bf1143d7bc0800000000000000
+      internalID: -3783810860085197042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_62
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 378
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bede1cd86bcbfca0800000000000000
+      internalID: -5981964028801524045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_63
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 378
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7451122e32c32300800000000000000
+      internalID: 226237978413978749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_64
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 378
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920dbf0845f73cfc0800000000000000
+      internalID: -3475794486481924055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_65
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 378
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69f5e813ad6565d0800000000000000
+      internalID: -3069927023718303377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_66
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 378
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa9eabbaa3c56290800000000000000
+      internalID: -7897691233463657821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_67
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 378
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07dd56bb49d646280800000000000000
+      internalID: -9050988865541251728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_68
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 378
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716d8ab351c4895e0800000000000000
+      internalID: -1902687188485089769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_69
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 378
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df38708dbc67b120800000000000000
+      internalID: 2429530085149654999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_70
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 378
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e720a6704ee310cc0800000000000000
+      internalID: -3746644265897688450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_71
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 335
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa831f575a4711dc0800000000000000
+      internalID: -3670023967333074769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_72
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 335
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea5677ece31cf990800000000000000
+      internalID: -7350978583558989073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_73
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 331
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12a3deac7646a5a0800000000000000
+      internalID: -6510438709994479074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_74
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 335
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f5c11839d636d20800000000000000
+      internalID: 3270578234694852464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_75
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 335
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf05c1e6e2346e640800000000000000
+      internalID: 5108844693993312507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_76
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 326
+        width: 87
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a8196389b043eb0800000000000000
+      internalID: -4741151759335847320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_77
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 345
+        width: 311
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebbbe2bcdae8bb10800000000000000
+      internalID: 1997604668354313191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_78
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 279
+        width: 87
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fecd782e5662eee0800000000000000
+      internalID: -1233310793353801997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_79
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 316
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3e638e709e9e160800000000000000
+      internalID: 7055426511422546916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_80
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 316
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff1dbea0f2533b10800000000000000
+      internalID: 1960001456513556465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_81
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 316
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadb1d44d4ac838f0800000000000000
+      internalID: -560475720391737938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_82
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 316
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291b2b962377a72b0800000000000000
+      internalID: -5586021329394290286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_83
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 316
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0cd49cfe767ed30800000000000000
+      internalID: 4460648235505926320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_84
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 316
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312a485ddc05fb250800000000000000
+      internalID: 5962573276642583059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_85
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 316
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099f344ffd19319f0800000000000000
+      internalID: -498894742646163056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_86
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 316
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b0b209c7070f7f0800000000000000
+      internalID: -580840671633798350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_87
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 316
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538af2f2e24c80680800000000000000
+      internalID: -8788558970174330827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_88
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 316
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7435028d8e9b1d0800000000000000
+      internalID: -3334378034138232925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_89
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 316
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2380b33c75acb70800000000000000
+      internalID: 8920038507981320956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_90
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 288
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792f3d298edd6a2c0800000000000000
+      internalID: -4420601993252048233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_91
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 288
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa02a528fc2920e0800000000000000
+      internalID: -2294253090873668875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_92
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 288
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d312f540799ab5b30800000000000000
+      internalID: 4277198737196917053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_93
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 288
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21494b6ec6ca84420800000000000000
+      internalID: 2614529167415612434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_94
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 288
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be85631507b4f2240800000000000000
+      internalID: 4769113476179581163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_95
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 288
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34da150210a29b930800000000000000
+      internalID: 4159401915178921283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_96
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 288
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055e0860555e51a60800000000000000
+      internalID: 7644268095875376464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_97
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 284
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac13e0a69774df370800000000000000
+      internalID: 8357915070265438666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_98
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 283
+        width: 311
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037ab4079692e54f0800000000000000
+      internalID: -838186947812022480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 332
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad13f3bade2324dc0800000000000000
+      internalID: -3656303951109738022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_100
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 215
+        width: 332
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4361ae6e34b94ff20800000000000000
+      internalID: 3455557530039227956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_101
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 179
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf10a2ac5792bd960800000000000000
+      internalID: 7627735979761730044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_102
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 179
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e5f561f3eeed960800000000000000
+      internalID: 7628796773537898034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_103
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 179
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae58c7949d42bbfa0800000000000000
+      internalID: -5783988780767869462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_104
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 179
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3364731a56d8ede00800000000000000
+      internalID: 1071449228996724275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_105
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 179
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87549cec6849f5b0800000000000000
+      internalID: -5334152650980829299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_106
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 175
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fce04a2ab6de3bb0800000000000000
+      internalID: -4954286444999807752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_107
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 169
+        width: 169
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baac2a78d37afb9c0800000000000000
+      internalID: -3909222068823864661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_108
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 157
+        width: 316
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc02808ea9d9ae610800000000000000
+      internalID: 1651305502028079311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_109
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 126
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecd02dc9e6d2a9e0800000000000000
+      internalID: -1611489416988009240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_110
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 126
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dafcdd41b3ca280800000000000000
+      internalID: -9030778191977927286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_111
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 126
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16cea0cf66ad4cf0800000000000000
+      internalID: -266373804040731106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_112
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 126
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9156af545c901c550800000000000000
+      internalID: 6179230906616276249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_113
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 126
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b177ba92d2ad364a0800000000000000
+      internalID: -6601192741287528677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_114
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 126
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9863721d16ca24470800000000000000
+      internalID: 8377447792983357065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_115
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 117
+        width: 87
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b26ee5bdb829e3b0800000000000000
+      internalID: -5482806276080639304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_116
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 94
+        width: 316
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0c53cd4aecfeb20800000000000000
+      internalID: 3165976270529216703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_117
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 79
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010524f5d1c28f160800000000000000
+      internalID: 7059440920567107600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_118
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 79
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddd27f577aac9450800000000000000
+      internalID: 6096935425232002521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_119
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 79
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a078e2be708c1a50800000000000000
+      internalID: 6493206044417224873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_120
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 79
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a079405617ca02080800000000000000
+      internalID: -9214175234573953270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_121
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 79
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09264592358b71f90800000000000000
+      internalID: -6982910029899472240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_122
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 79
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6f3ea7803c1ed50800000000000000
+      internalID: 6764902556476110508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_123
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 70
+        width: 87
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669f21e7419cdfe60800000000000000
+      internalID: 7997769603131570534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_124
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 32
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97af33037e20a9640800000000000000
+      internalID: 5087381921037810297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_125
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 32
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f24e05a6c801d80800000000000000
+      internalID: -8281965326482788478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_126
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 32
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33a550c36126cff0800000000000000
+      internalID: -16288836336901313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_127
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 32
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7fe24b331f542b0800000000000000
+      internalID: -5600805357196740685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_128
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 32
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e78d67805fdc140800000000000000
+      internalID: 4741715399393443345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_129
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 32
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640dffd7944846590800000000000000
+      internalID: -7681869613205827514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_130
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 32
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec7809868acfcaf0800000000000000
+      internalID: -373857564874998554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_131
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 51
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2348146954a2b4b30800000000000000
+      internalID: 4272555149853033522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_132
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 51
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c94fb1edd6ba970800000000000000
+      internalID: 8767221900325985359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_133
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 51
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a197cd3b769939a0800000000000000
+      internalID: -6252801151565590107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_134
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 51
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d53715866ad4cd0800000000000000
+      internalID: -2572216845185360602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_135
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 51
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69bc99c4385046d0800000000000000
+      internalID: -3008307567339456147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_136
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 51
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e25a815d69ec68f0800000000000000
+      internalID: -545804799089945881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_137
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 51
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad44ae76566c1270800000000000000
+      internalID: 8222559541349600673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_138
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 51
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1459624d200777ed0800000000000000
+      internalID: -2416339517609437887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_139
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 51
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea9bd9a456706680800000000000000
+      internalID: -8763874768863913239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_140
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 47
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54255eb3578529f0800000000000000
+      internalID: -493839790381915042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_141
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 32
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2a965e0cfb7a240800000000000000
+      internalID: 4803018362817454822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_142
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 32
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cacc3b6291129f10800000000000000
+      internalID: 2274900082337565385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_143
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 32
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b610583cdcdda090800000000000000
+      internalID: -8021512522881296712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_144
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 32
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6680a63a6fb24320800000000000000
+      internalID: 2540803602694309487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_145
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 32
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13753a9194f746260800000000000000
+      internalID: 7089931665327478577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_146
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 28
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94f1bae9df931930800000000000000
+      internalID: 4112806643013645469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_147
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 32
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca670e265a565220800000000000000
+      internalID: 2474264371472591561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_148
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 32
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e2ad6bc20d90590800000000000000
+      internalID: -7707400396803002731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_149
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 32
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0aa85b1a591b88e0800000000000000
+      internalID: -1690229360350942709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_150
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 18
+        width: 311
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b1a87a72647a970800000000000000
+      internalID: 8766052335828474629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sample_setting_GameSet_151
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 311
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8898914c6eace70800000000000000
+      internalID: 9136368523990894791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sample_setting_GameSet_0: -725767029315446597
+      sample_setting_GameSet_1: -7388126425867454648
+      sample_setting_GameSet_10: 2887338140084566718
+      sample_setting_GameSet_100: 3455557530039227956
+      sample_setting_GameSet_101: 7627735979761730044
+      sample_setting_GameSet_102: 7628796773537898034
+      sample_setting_GameSet_103: -5783988780767869462
+      sample_setting_GameSet_104: 1071449228996724275
+      sample_setting_GameSet_105: -5334152650980829299
+      sample_setting_GameSet_106: -4954286444999807752
+      sample_setting_GameSet_107: -3909222068823864661
+      sample_setting_GameSet_108: 1651305502028079311
+      sample_setting_GameSet_109: -1611489416988009240
+      sample_setting_GameSet_11: 2717347650636977707
+      sample_setting_GameSet_110: -9030778191977927286
+      sample_setting_GameSet_111: -266373804040731106
+      sample_setting_GameSet_112: 6179230906616276249
+      sample_setting_GameSet_113: -6601192741287528677
+      sample_setting_GameSet_114: 8377447792983357065
+      sample_setting_GameSet_115: -5482806276080639304
+      sample_setting_GameSet_116: 3165976270529216703
+      sample_setting_GameSet_117: 7059440920567107600
+      sample_setting_GameSet_118: 6096935425232002521
+      sample_setting_GameSet_119: 6493206044417224873
+      sample_setting_GameSet_12: 6094639983050261694
+      sample_setting_GameSet_120: -9214175234573953270
+      sample_setting_GameSet_121: -6982910029899472240
+      sample_setting_GameSet_122: 6764902556476110508
+      sample_setting_GameSet_123: 7997769603131570534
+      sample_setting_GameSet_124: 5087381921037810297
+      sample_setting_GameSet_125: -8281965326482788478
+      sample_setting_GameSet_126: -16288836336901313
+      sample_setting_GameSet_127: -5600805357196740685
+      sample_setting_GameSet_128: 4741715399393443345
+      sample_setting_GameSet_129: -7681869613205827514
+      sample_setting_GameSet_13: 3609347910706917486
+      sample_setting_GameSet_130: -373857564874998554
+      sample_setting_GameSet_131: 4272555149853033522
+      sample_setting_GameSet_132: 8767221900325985359
+      sample_setting_GameSet_133: -6252801151565590107
+      sample_setting_GameSet_134: -2572216845185360602
+      sample_setting_GameSet_135: -3008307567339456147
+      sample_setting_GameSet_136: -545804799089945881
+      sample_setting_GameSet_137: 8222559541349600673
+      sample_setting_GameSet_138: -2416339517609437887
+      sample_setting_GameSet_139: -8763874768863913239
+      sample_setting_GameSet_14: -4420049903457158061
+      sample_setting_GameSet_140: -493839790381915042
+      sample_setting_GameSet_141: 4803018362817454822
+      sample_setting_GameSet_142: 2274900082337565385
+      sample_setting_GameSet_143: -8021512522881296712
+      sample_setting_GameSet_144: 2540803602694309487
+      sample_setting_GameSet_145: 7089931665327478577
+      sample_setting_GameSet_146: 4112806643013645469
+      sample_setting_GameSet_147: 2474264371472591561
+      sample_setting_GameSet_148: -7707400396803002731
+      sample_setting_GameSet_149: -1690229360350942709
+      sample_setting_GameSet_15: -8588421426104000700
+      sample_setting_GameSet_150: 8766052335828474629
+      sample_setting_GameSet_151: 9136368523990894791
+      sample_setting_GameSet_16: 704095036814271922
+      sample_setting_GameSet_17: -1997697518978684596
+      sample_setting_GameSet_18: -8508484792188312575
+      sample_setting_GameSet_19: -3812371874080605139
+      sample_setting_GameSet_2: -998015935451624511
+      sample_setting_GameSet_20: -5835123656151759613
+      sample_setting_GameSet_21: 5987700456684747973
+      sample_setting_GameSet_22: 834803798025395859
+      sample_setting_GameSet_23: -7168973956282710531
+      sample_setting_GameSet_24: -1905712686038451518
+      sample_setting_GameSet_25: -8395083695523083387
+      sample_setting_GameSet_26: -948592285763947764
+      sample_setting_GameSet_27: 4514623587048888862
+      sample_setting_GameSet_28: -181780841740688938
+      sample_setting_GameSet_29: -523212277304306575
+      sample_setting_GameSet_3: 8157122308845969954
+      sample_setting_GameSet_30: 4567996935449206657
+      sample_setting_GameSet_31: 3925612157698645475
+      sample_setting_GameSet_32: -4451006269673062553
+      sample_setting_GameSet_33: 187609231171907309
+      sample_setting_GameSet_34: -5986511135777045745
+      sample_setting_GameSet_35: -7547594240593628609
+      sample_setting_GameSet_36: -3171368698467011451
+      sample_setting_GameSet_37: -94002020908182355
+      sample_setting_GameSet_38: 1103811104719641391
+      sample_setting_GameSet_39: -3036342598268275690
+      sample_setting_GameSet_4: -206851936138464834
+      sample_setting_GameSet_40: 894124665720897942
+      sample_setting_GameSet_41: -5875946025106305649
+      sample_setting_GameSet_42: -7695469948353149733
+      sample_setting_GameSet_43: -6989999730521054346
+      sample_setting_GameSet_44: 7782479613689241745
+      sample_setting_GameSet_45: 4971879743766147795
+      sample_setting_GameSet_46: 4267800978425228643
+      sample_setting_GameSet_47: -3888078951914246799
+      sample_setting_GameSet_48: 3785674186497853681
+      sample_setting_GameSet_49: -7146068536355486477
+      sample_setting_GameSet_5: -5553267526910525886
+      sample_setting_GameSet_50: -8126722319916154535
+      sample_setting_GameSet_51: 3991463069450676038
+      sample_setting_GameSet_52: 3441523168168338889
+      sample_setting_GameSet_53: -7171163082043877761
+      sample_setting_GameSet_54: -819686020909900276
+      sample_setting_GameSet_55: 7149398270671270305
+      sample_setting_GameSet_56: 7510511570557918255
+      sample_setting_GameSet_57: 8911368643761528686
+      sample_setting_GameSet_58: -6304654499625048070
+      sample_setting_GameSet_59: 4058781556596259716
+      sample_setting_GameSet_6: 2438677300289516814
+      sample_setting_GameSet_60: 2747319564357914580
+      sample_setting_GameSet_61: -3783810860085197042
+      sample_setting_GameSet_62: -5981964028801524045
+      sample_setting_GameSet_63: 226237978413978749
+      sample_setting_GameSet_64: -3475794486481924055
+      sample_setting_GameSet_65: -3069927023718303377
+      sample_setting_GameSet_66: -7897691233463657821
+      sample_setting_GameSet_67: -9050988865541251728
+      sample_setting_GameSet_68: -1902687188485089769
+      sample_setting_GameSet_69: 2429530085149654999
+      sample_setting_GameSet_7: 2149552843703150198
+      sample_setting_GameSet_70: -3746644265897688450
+      sample_setting_GameSet_71: -3670023967333074769
+      sample_setting_GameSet_72: -7350978583558989073
+      sample_setting_GameSet_73: -6510438709994479074
+      sample_setting_GameSet_74: 3270578234694852464
+      sample_setting_GameSet_75: 5108844693993312507
+      sample_setting_GameSet_76: -4741151759335847320
+      sample_setting_GameSet_77: 1997604668354313191
+      sample_setting_GameSet_78: -1233310793353801997
+      sample_setting_GameSet_79: 7055426511422546916
+      sample_setting_GameSet_8: -441350313150421217
+      sample_setting_GameSet_80: 1960001456513556465
+      sample_setting_GameSet_81: -560475720391737938
+      sample_setting_GameSet_82: -5586021329394290286
+      sample_setting_GameSet_83: 4460648235505926320
+      sample_setting_GameSet_84: 5962573276642583059
+      sample_setting_GameSet_85: -498894742646163056
+      sample_setting_GameSet_86: -580840671633798350
+      sample_setting_GameSet_87: -8788558970174330827
+      sample_setting_GameSet_88: -3334378034138232925
+      sample_setting_GameSet_89: 8920038507981320956
+      sample_setting_GameSet_9: 5767527552953912916
+      sample_setting_GameSet_90: -4420601993252048233
+      sample_setting_GameSet_91: -2294253090873668875
+      sample_setting_GameSet_92: 4277198737196917053
+      sample_setting_GameSet_93: 2614529167415612434
+      sample_setting_GameSet_94: 4769113476179581163
+      sample_setting_GameSet_95: 4159401915178921283
+      sample_setting_GameSet_96: 7644268095875376464
+      sample_setting_GameSet_97: 8357915070265438666
+      sample_setting_GameSet_98: -838186947812022480
+      sample_setting_GameSet_99: -3656303951109738022
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
