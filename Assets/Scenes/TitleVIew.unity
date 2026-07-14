@@ -15356,9 +15356,9 @@ RectTransform:
   - {fileID: 1359478045}
   - {fileID: 318224214}
   - {fileID: 1884391707}
-  - {fileID: 1842250784}
   - {fileID: 525892254}
   - {fileID: 1521092501}
+  - {fileID: 1842250784}
   - {fileID: 914374654}
   - {fileID: 674414095}
   m_Father: {fileID: 1176718378}
@@ -16201,6 +16201,18 @@ PrefabInstance:
     - target: {fileID: 7887456726625841476, guid: c498d962436bcba46bbb9b2d74556b50, type: 3}
       propertyPath: m_text
       value: "\u200B"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7887456726625841476, guid: c498d962436bcba46bbb9b2d74556b50, type: 3}
+      propertyPath: m_fontColor.b
+      value: 0.39607844
+      objectReference: {fileID: 0}
+    - target: {fileID: 7887456726625841476, guid: c498d962436bcba46bbb9b2d74556b50, type: 3}
+      propertyPath: m_fontColor.g
+      value: 0.39607844
+      objectReference: {fileID: 0}
+    - target: {fileID: 7887456726625841476, guid: c498d962436bcba46bbb9b2d74556b50, type: 3}
+      propertyPath: m_fontColor.r
+      value: 0.39607844
       objectReference: {fileID: 0}
     - target: {fileID: 8869797245952560728, guid: c498d962436bcba46bbb9b2d74556b50, type: 3}
       propertyPath: m_LocalScale.x
